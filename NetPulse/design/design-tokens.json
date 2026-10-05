@@ -1,0 +1,44 @@
+{
+  "colors": {
+    "background": "#f5f7fa",
+    "surface": "#ffffff",
+    "text": "#182133",
+    "muted": "#697589",
+    "sidebar": "#111827",
+    "primary": "#6d55ed",
+    "healthy": "#71bda5",
+    "degraded": "#e8b568",
+    "failed": "#e78595",
+    "unobserved": "#dce2ec"
+  },
+  "typography": {
+    "family": "Inter, Segoe UI, Arial",
+    "bodyPx": 16,
+    "labelPx": 14,
+    "metadataPx": 12,
+    "headingPx": 29
+  },
+  "spacingPx": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    32
+  ],
+  "radiiPx": {
+    "control": 7,
+    "panel": 10
+  },
+  "frames": {
+    "desktop": [
+      1440,
+      1140
+    ],
+    "mobile": [
+      390,
+      1210
+    ]
+  }
+}

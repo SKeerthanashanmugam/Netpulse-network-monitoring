@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1210" viewBox="0 0 390 1210">
+<title>NetPulse dashboard design reference — demo measurements</title>
+<rect x="0" y="0" width="390" height="1210" rx="0" fill="#f5f7fa"/>
+<rect x="0" y="0" width="390" height="65" rx="0" fill="#fff"/>
+<text x="41" y="39" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#3a455a">Overview</text>
+<rect x="253" y="18" width="118" height="31" rx="6" fill="#f7f8fb" stroke="#e5e9f0"/>
+<text x="267" y="39" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4a566c">Demo data</text>
+<text x="16" y="95" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#8b91a4">NETWORK MONITORING</text>
+<text x="16" y="128" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="650" fill="#182133">Network overview</text>
+<text x="16" y="153" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#7b8598">Your network health, at a glance.</text>
+<rect x="16" y="174" width="120" height="36" rx="7" fill="#fff" stroke="#e5e9f0"/>
+<text x="28" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4d5870">Export report</text>
+<rect x="145" y="174" width="115" height="36" rx="7" fill="#6d55ed"/>
+<text x="163" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#fff">Run checks</text>
+<rect x="16" y="228" width="358" height="48" rx="7" fill="#eeebfa" stroke="#e4dff8"/>
+<text x="27" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6750bd">Demo data · simulated measurements</text>
+<text x="27" y="266" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#70678b">For learning and portfolio practice</text>
+<text x="16" y="311" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#8991a0">Last run 04:00 UTC</text>
+<rect x="252" y="292" width="122" height="32" rx="6" fill="#fff" stroke="#e2e7ef"/>
+<text x="261" y="313" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#556077">Last 24 hours</text>
+<rect x="16" y="340" width="173" height="122" rx="10" fill="#fff" stroke="#e5e9f0"/>
+<text x="34" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#788196">Monitored services</text>
+
+<text x="34" y="411" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#1e283b">8</text>
+<text x="34" y="442" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#8b94a4">5 healthy · 3 affected</text>
+<rect x="201" y="340" width="173" height="122" rx="10" fill="#fff" stroke="#e5e9f0"/>
+<text x="219" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#788196">Check availability</text>
+
+<text x="219" y="411" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#1e283b">99.48</text>
+<text x="309" y="411" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#8a92a2">%</text>
+<text x="219" y="442" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#8b94a4">776 measured checks</text>
+<rect x="16" y="477" width="173" height="122" rx="10" fill="#fff" stroke="#e5e9f0"/>
+<text x="34" y="505" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#788196">Avg. response time</text>
+
+<text x="34" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#1e283b">104</text>
+<text x="88" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#8a92a2">ms</text>
+<text x="34" y="579" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#8b94a4">Successful checks</text>
+<rect x="201" y="477" width="173" height="122" rx="10" fill="#fff" stroke="#e5e9f0"/>
+<text x="219" y="505" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#788196">Active incidents</text>
+
+<text x="219" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#1e283b">3</text>
+<text x="219" y="579" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#8b94a4">1 critical · 1 acknowledged</text>
+<rect x="16" y="628" width="358" height="253" rx="10" fill="#fff" stroke="#e4e8f0"/>
+<text x="32" y="656" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#182133">Response time</text>
+<text x="32" y="679" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#8791a3">Average latency across services</text>
+<line x1="47" y1="705" x2="354" y2="705" stroke="#e7ebf2" stroke-width="1"/>
+<line x1="47" y1="750" x2="354" y2="750" stroke="#e7ebf2" stroke-width="1"/>
+<line x1="47" y1="795" x2="354" y2="795" stroke="#e7ebf2" stroke-width="1"/>
+<line x1="47" y1="840" x2="354" y2="840" stroke="#e7ebf2" stroke-width="1"/>
+<path d="M47.00,791.40 L54.87,795.00 L62.74,800.40 L70.62,800.40 L78.49,802.65 L86.36,804.90 L94.23,799.95 L102.10,795.00 L109.97,795.00 L117.85,793.20 L125.72,792.30 L133.59,798.15 L141.46,802.20 L149.33,801.30 L157.21,803.10 L165.08,803.10 L172.95,796.80 L180.82,793.20 L188.69,796.80 L196.56,793.20 L204.44,794.55 L212.31,800.85 L220.18,803.55 L228.05,801.75 L235.92,802.65 L243.79,800.85 L251.67,794.10 L259.54,792.75 L267.41,794.55 L275.28,794.10 L283.15,798.60 L291.03,803.55 L298.90,803.55 L306.77,801.30 L314.64,801.30 L322.51,798.15 L330.38,767.10 L338.26,743.25 L346.13,745.95 L354.00,742.80" fill="none" stroke="#7860ed" stroke-width="2.6"/>
+<text x="47" y="860" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#95a0b1">04:00</text>
+<text x="179" y="860" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#95a0b1">16:00</text>
+<text x="321" y="860" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#95a0b1">04:00</text>
+<rect x="16" y="898" width="358" height="232" rx="10" fill="#fff" stroke="#e4e8f0"/>
+<text x="32" y="926" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#182133">Service health</text>
+<text x="32" y="949" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#8791a3">Latest check status</text>
+<circle cx="104" cy="1010" r="42" fill="none" stroke="#e58998" stroke-width="10"/><circle cx="104" cy="1010" r="42" fill="none" stroke="#f0c16d" stroke-width="10" stroke-dasharray="231 264" transform="rotate(-90 104 1010)"/><circle cx="104" cy="1010" r="42" fill="none" stroke="#64bea0" stroke-width="10" stroke-dasharray="165 264" transform="rotate(-90 104 1010)"/>
+<text x="81" y="1017" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650" fill="#1e283b">5/8</text>
+<text x="185" y="988" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#758196">Operational</text>
+<text x="339" y="988" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#536075">5</text>
+<text x="185" y="1018" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#758196">Degraded</text>
+<text x="339" y="1018" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#536075">2</text>
+<text x="185" y="1048" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#758196">Down</text>
+<text x="339" y="1048" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#536075">1</text>
+<line x1="16" y1="1090" x2="374" y2="1090" stroke="#e7ebf2" stroke-width="1"/>
+<text x="101" y="1115" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b67c51">3 incidents need attention</text>
+<text x="16" y="1161" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#697589">Service table continues below</text>
+<text x="16" y="1187" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#9ca6b5">Reference layout · demo data</text>
+</svg>
